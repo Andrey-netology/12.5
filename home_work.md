@@ -20,10 +20,10 @@ Inline-style:
 ![alt text](https://github.com/Andrey-netology/12.5/blob/main/1.JPG "Logo Title Text 1")
 
 
-Делаем проверку доступа:
+Манифест: 
 
 Inline-style: 
-![alt text](https://github.com/Andrey-netology/12.5/blob/main/2.JPG "Logo Title Text 1")
+![alt text](https://github.com/Andrey-netology/12.5/blob/main/4.JPG "Logo Title Text 1")
 
 admin@kuber1:~$ sudo calicoctl get nodes
 NAME    
