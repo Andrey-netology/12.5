@@ -20,11 +20,16 @@ Inline-style:
 ![alt text](https://github.com/Andrey-netology/12.5/blob/main/1.JPG "Logo Title Text 1")
 
 
-Манифест: 
+Манифест политики для hello-world, доступ сделал только для frontend: 
 
 Inline-style: 
-![alt text](https://github.com/Andrey-netology/12.5/blob/main/4.JPG "Logo Title Text 1")
+![alt text](https://github.com/Andrey-netology/12.5/blob/main/6.JPG "Logo Title Text 1")
 
+Проверка доступов: 
+Inline-style: 
+![alt text](https://github.com/Andrey-netology/12.5/blob/main/5.JPG "Logo Title Text 1")
+  
+  
 admin@kuber1:~$ sudo calicoctl get nodes
 NAME    
 kuber2  
